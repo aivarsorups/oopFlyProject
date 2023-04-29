@@ -1,4 +1,4 @@
-package com.airport.airport.controller.model.airline;
+package com.airport.model.airline;
 
 import lombok.Getter;
 import lombok.Setter;
